@@ -5,10 +5,7 @@ main:
     url: /aboutme/  
 
   - title: "Teaching"
-    url: /teaching/  
- 
-  - title: "MPCS"
-    url: /MPCS/    
+    url: /teaching/     
         
   - title: "Research/Publications"
     url: https://scholar.google.com/citations?user=gzas45IAAAAJ&hl=en&authuser=2&oi=sra
